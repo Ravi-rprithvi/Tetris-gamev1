@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: sevenajay/tetrisv2:latest
+        image: 992382434579.dkr.ecr.ap-south-1.amazonaws.com/tetrisgame:v1
         ports:
         - containerPort: 3000   # Use port 3000
 
